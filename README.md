@@ -53,4 +53,10 @@ phpMyAdmin
     <img width="393" alt="database" src="https://user-images.githubusercontent.com/79647437/173400613-ea361942-705c-48b5-bd76-0db95c1c39b5.PNG">
 
   </details>
+ 
+## Dane dotyczące bazy danych:
+host = localhost
+user = root
+password = ''
+database_name = treedatastructure
 
