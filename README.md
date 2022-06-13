@@ -41,6 +41,7 @@ Aplikacja służy do tworzenia i zarządzania strukturą drzewiastą.
     <img width="528" alt="sort" src="https://user-images.githubusercontent.com/79647437/173399315-6d65b800-d963-4af2-a32b-dcd5ccba321e.PNG">
   </details>
   
+ W oknach zarządzania węzłami zastosowane są pola typu "select" z wyszukiwaniem.
 
 ## Wykorzystane technologie
 Bootstrap, HTML, CSS, JavaScript, Laravel
