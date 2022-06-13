@@ -40,3 +40,17 @@ Aplikacja służy do tworzenia i zarządzania strukturą drzewiastą.
     <summary>Okno sortowania węzłów</summary>
     <img width="528" alt="sort" src="https://user-images.githubusercontent.com/79647437/173399315-6d65b800-d963-4af2-a32b-dcd5ccba321e.PNG">
   </details>
+  
+
+## Wykorzystane technologie
+Bootstrap, HTML, CSS, JavaScript, Laravel
+
+## Wykorzystane narzędzia do zarządzania bazą danych
+phpMyAdmin
+
+<details>
+    <summary>Tabela przechowująca dane na temat węzłów</summary>
+    <img width="393" alt="database" src="https://user-images.githubusercontent.com/79647437/173400613-ea361942-705c-48b5-bd76-0db95c1c39b5.PNG">
+
+  </details>
+
