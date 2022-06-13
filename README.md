@@ -56,8 +56,8 @@ phpMyAdmin
   </details>
  
 ## Dane dotyczące bazy danych:
-host = localhost;
-user = root;
-password = '';
-database_name = treedatastructure;
+1. host = localhost
+2. user = root
+3. password = " "
+4. database_name = treedatastructure
 
