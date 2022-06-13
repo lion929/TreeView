@@ -10,7 +10,7 @@ Aplikacja służy do tworzenia i zarządzania strukturą drzewiastą.
   5. Sortowanie węzłów.
   6. Rozwijanie i zwijanie całej struktury.
 
-### Interfejs serwisu:
+### Interfejs aplikacji:
   <details>
     <summary>Ekran główny</summary>
     <img width="888" alt="main" src="https://user-images.githubusercontent.com/79647437/173398115-50a5aadd-4c4a-4e49-a634-aaf68babec57.PNG">
